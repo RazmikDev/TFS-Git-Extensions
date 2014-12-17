@@ -1,0 +1,8 @@
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\obj\Debug\PullRequest.Gated.csprojResolveAssemblyReference.cache
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\bin\Debug\PullRequest.Gated.dll
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\bin\Debug\PullRequest.Gated.pdb
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\bin\Debug\Microsoft.TeamFoundation.Framework.Server.dll
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\bin\Debug\Microsoft.TeamFoundation.Git.Server.dll
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\bin\Debug\Newtonsoft.Json.dll
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\obj\Debug\PullRequest.Gated.dll
+C:\Repositories\TFS-Git-Extensions\Sources\PullRequest.Gated\obj\Debug\PullRequest.Gated.pdb
